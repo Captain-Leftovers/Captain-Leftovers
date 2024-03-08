@@ -24,9 +24,8 @@
 
 ### Connect with Me
 
-- [Portfolio](https://www.beeondweb.com/)
-- [LinkedIn](www.linkedin.com/in/beeondweb)
-
+<a href="https://www.beeondweb.com/" target="_blank">Portfolio</a><br>
+<a href="https://www.linkedin.com/in/beeondweb" target="_blank">LinkedIn</a>
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Leftovers&theme=vue-dark&layout=compact" alt="Dob" /></p><br>
