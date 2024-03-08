@@ -1,5 +1,12 @@
-# Hi there 👋
+# Hi there 👋, I'm Dob
 
+## About Me
+
+- 🔭 I’m currently working on gohtmxtemplbeelog
+- 🌱 I’m constantly learning new skills
+- 💬 Ask me about Golang, JavaScript, Next, Tailwind
+
+<p> Test</p>
 <!--
 **Captain-Leftovers/Captain-Leftovers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
