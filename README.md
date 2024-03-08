@@ -26,7 +26,7 @@
 
 <p>&nbsp;</p>
 
-<h3>Connect with Me</h3>
+<h3>&nbsp;Connect with Me</h3>
 - [Portfolio](https://www.beeondweb.com/)
 <!--
 **Captain-Leftovers/Captain-Leftovers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
