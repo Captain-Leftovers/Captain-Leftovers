@@ -22,7 +22,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Leftovers&theme=vue-dark&layout=compact" alt="Dob" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Leftovers&theme=vue-dark&layout=compact" alt="Dob" /></p><br>  
 
 <h3>Connect with Me</h3>
 - [Portfolio](https://www.beeondweb.com/)
