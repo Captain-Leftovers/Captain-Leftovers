@@ -1,13 +1,12 @@
-<h1>Hi there 👋, I'm Dob</h1>
+<h1 aline="center">Hi there 👋, I'm Dob</h1>
 
 
 - 🔭 I’m currently working on gohtmxtemplbeelog
 - 🌱 I’m constantly learning new skills
 - 💬 Ask me about Golang, JavaScript, Next, Tailwind
 
-## Languages and Tools:
-
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
 <!--
 **Captain-Leftovers/Captain-Leftovers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
