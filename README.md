@@ -26,7 +26,7 @@
 
 <p>&nbsp;</p>
 
-<h3>&nbsp;Connect with Me</h3>
+### Connect with Me
 
 - [Portfolio](https://www.beeondweb.com/)
 <!--
