@@ -22,13 +22,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40">
 </p>
 
+### Connect with Me
+
+- [Portfolio](https://www.beeondweb.com/)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Leftovers&theme=vue-dark&layout=compact" alt="Dob" /></p><br>
 
 <p>&nbsp;</p>
 
-### Connect with Me
-
-- [Portfolio](https://www.beeondweb.com/)
 <!--
 **Captain-Leftovers/Captain-Leftovers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
