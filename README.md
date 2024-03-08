@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Dob</h1>
 
 
-- 🔭 I’m currently working on gohtmxtemplbeelog
+- 🔭 I’m currently working on some side projects
 - 🌱 I’m constantly learning new skills
 - 💬 Ask me about Golang, JavaScript, Next, Tailwind
 
