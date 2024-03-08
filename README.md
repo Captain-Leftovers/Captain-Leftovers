@@ -1,4 +1,4 @@
-<h1 aline="center">Hi there 👋, I'm Dob</h1>
+<h1 align="center">Hi there 👋, I'm Dob</h1>
 
 
 - 🔭 I’m currently working on gohtmxtemplbeelog
@@ -6,6 +6,7 @@
 - 💬 Ask me about Golang, JavaScript, Next, Tailwind
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40">
@@ -19,6 +20,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40">
+</p>
 <!--
 **Captain-Leftovers/Captain-Leftovers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
