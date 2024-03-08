@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Leftovers&theme=vue-dark&layout=compact" alt="Dob" /></p>
 
-&nbsp;
+<p>&nbsp;</p>
 
 <h3>&nbsp;Connect with Me</h3>
 
