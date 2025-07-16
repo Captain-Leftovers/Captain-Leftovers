@@ -20,6 +20,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-plain.svg" width="40" height="40">
 </p>
 
 ### Connect with Me
